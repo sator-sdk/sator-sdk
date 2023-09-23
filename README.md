@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:sator-sdk"></a>
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:sator-sdk?theme=moebooru"></a>
 </p>
 
 ## :ghost: 
