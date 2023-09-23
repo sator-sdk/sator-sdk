@@ -20,3 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" title="RedHat" alt="RedHat" width="40" height="40"/>&nbsp;
 </div>
+
+<p align="center">
+![](https://raw.githubusercontent.com/sator-sdk/github-stats-transparent/output/generated/languages.svg)
+</p>
