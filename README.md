@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:sator-sdk?theme=moebooru"></a>
-</p>
-
 ## :ghost: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
