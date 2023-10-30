@@ -2,11 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=7000&pause=1000&color=A8F70E&width=435&lines=%2FP6P43bysWvdSyM0IBg8G102%2Fo4XEXR2Mg84EHZYGEU%3D;ZGflS4nB89jyFRXiEMWAIdXozyyoSdu%2Boc92LMstNy4%3D)](https://git.io/typing-svg)
 
 
-<p align="center">
-<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:sator-sdk?theme=moebooru"></a>
-</p>
-
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
